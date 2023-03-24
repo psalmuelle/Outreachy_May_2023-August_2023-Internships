@@ -49,7 +49,7 @@ When user/hospital register and fill in the form, they can see their information
 ### Live links
 
 - Link to Live Website: [Live Website](https://mboalab-task.onrender.com/)
-- Link to access the backend api: [API](https://daniel2345.pythonanywhere.com/admin/login/?next=/admin/)
+- Link to access the backend api: [API](https://daniel2345.pythonanywhere.com/api/)
 
 In other to use the api for the proposed platform, there is a _Get_ method that returns a list of data collected from all hospitals that have signed up for the system. You can try it out using [https://daniel2345.pythonanywhere.com/api/hospital/all/](https://daniel2345.pythonanywhere.com/api/hospital/all/).
 
